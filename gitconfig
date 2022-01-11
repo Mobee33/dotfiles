@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mobee33@hotmail.com
+	name = Mubeen Bankur
